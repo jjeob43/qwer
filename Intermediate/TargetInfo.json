@@ -1,0 +1,24 @@
+{
+	"Targets": [
+		{
+			"Name": "DedicatedX",
+			"Path": "..\\Source\\DedicatedX.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DedicatedXClient",
+			"Path": "..\\Source\\DedicatedXClient.Target.cs",
+			"Type": "Client"
+		},
+		{
+			"Name": "DedicatedXEditor",
+			"Path": "..\\Source\\DedicatedXEditor.Target.cs",
+			"Type": "Editor"
+		},
+		{
+			"Name": "DedicatedXServer",
+			"Path": "..\\Source\\DedicatedXServer.Target.cs",
+			"Type": "Server"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal Projects\\qwer\\Source\\DedicatedX\\DedicatedX.Build.cs",
+		"C:\\Unreal Projects\\qwer\\Source\\DedicatedX.Target.cs",
+		"C:\\Unreal Projects\\qwer\\Source\\DedicatedXClient.Target.cs",
+		"C:\\Unreal Projects\\qwer\\Source\\DedicatedXEditor.Target.cs",
+		"C:\\Unreal Projects\\qwer\\Source\\DedicatedXServer.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
